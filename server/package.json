@@ -65,7 +65,7 @@
     "mysql2": "^1.6.5",
     "nodemailer": "^6.0.0",
     "normalize-registry-metadata": "^1.1.2",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "redis": "^2.8.0",
     "urllib": "^2.33.2",
     "utility": "^1.16.1",
